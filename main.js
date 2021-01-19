@@ -3,11 +3,11 @@ function board(){
   alert(boardnum[1]);
 }
 function goboard(){
-  window.open("board.html","_self","");
+  window.open("https://doppio1101.github.io/SongLim/board.html","_self","");
 }
 function gomain(){
-  window.open("main.html","_self","");
+  window.open("https://doppio1101.github.io/SongLim/main.html","_self","");
 }
 function goorder(){
-  window.open("order.html","_self","");
+  window.open("https://doppio1101.github.io/SongLim/order.html","_self","");
 }
